@@ -1,0 +1,13 @@
+Unordered list 
+tags: <ul></ul>
+    List items:
+        tags: <li></li>
+    e.g:
+    <ul>
+        <li> elem1</li>
+        <li> elem2</li>
+    </ul>
+
+Ordered List 
+tag: <ol></ol>
+--list items are the same tags--

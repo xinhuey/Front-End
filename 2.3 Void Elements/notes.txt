@@ -1,0 +1,9 @@
+void elements:
+
+<hr /> or <hr>: horizontal rule 
+    creates a line between paragraphs
+
+<br /> or <br>: break
+    creates a new line within paragraphs
+
+!!! everything is a paragraph !!!

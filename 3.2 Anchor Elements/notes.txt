@@ -1,0 +1,5 @@
+add hyperlinks:
+<a href="https://"> Link name </a>
+
+<tag attribute=value>Content</tag>
+<tag attribute=value another attribute=value2>Content</tag>

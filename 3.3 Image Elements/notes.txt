@@ -1,0 +1,11 @@
+image source:
+tag syntax:
+    <img src="url"/>
+
+    specifying the size:
+        <img src=".../200"/> : size of 200 x 200 
+    
+    ALT attribute
+        -alternative text description 
+        -for users with visual impairment 
+        <img src=".../200" alt =" text"/>
